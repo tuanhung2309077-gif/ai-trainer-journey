@@ -1,7 +1,7 @@
 # Hành trình AI Trainer — 3 tháng
 
 > Repo học tập công khai của Tuấn Hưng: toàn bộ quá trình trở thành **AI trainer kỹ thuật cho tiếng Việt** — vừa học vừa làm vừa thí nghiệm, mọi hiện vật đều ở đây.
-> Lộ trình chi tiết: xem file `lo-trinh-3-thang-ai-trainer.md` (bản 3.0).
+> Lộ trình chi tiết: xem file `lo-trinh-3-thang-ai-trainer.md` (bản 4.0).
 
 ## Mục tiêu
 
